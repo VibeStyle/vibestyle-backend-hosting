@@ -1,1 +1,1 @@
-# vibestyle-backend-hosting
+# node.js app for https://vibestyle.co.ua
